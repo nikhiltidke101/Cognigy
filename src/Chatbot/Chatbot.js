@@ -154,7 +154,7 @@ function Chatbot() {
 
     return (
         <Box style={{
-            height: "70vh", width: 600,
+            height: "70vh", width: 550,
             border: '3px solid black', borderRadius: '15px',
             backgroundColor:"rgb(21,25,28)",
             margin:"20px"
