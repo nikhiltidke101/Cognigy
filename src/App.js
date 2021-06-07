@@ -7,7 +7,7 @@ function App() {
     <div>
 
       <Box style={{ display: 'flex', justifyContent: 'center', marginTop: '2rem' }}>
-        <img src="./cognigy.png" style={{width:"25rem"}} alt="" />
+        <img src="./cognigy.png" style={{width:"20rem"}} alt="" />
       </Box>
 
       <Box style={{ display: 'flex', justifyContent: 'center' }}>
